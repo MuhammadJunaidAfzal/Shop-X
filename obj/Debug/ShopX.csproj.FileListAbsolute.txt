@@ -1,0 +1,192 @@
+C:\Users\PERSONAL\source\repos\ShopX\bin\ShopX.dll.config
+C:\Users\PERSONAL\source\repos\ShopX\bin\ShopX.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\ShopX.pdb
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\csc.exe
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\csc.exe.config
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\csc.rsp
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\csi.exe
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\csi.exe.config
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\csi.rsp
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.AppContext.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.Console.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.IO.Compression.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.Net.Http.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.ValueTuple.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\vbc.exe
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\vbc.exe.config
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\vbc.rsp
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\VBCSCompiler.exe
+C:\Users\PERSONAL\source\repos\ShopX\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PERSONAL\source\repos\ShopX\bin\EntityFramework.xml
+C:\Users\PERSONAL\source\repos\ShopX\bin\EntityFramework.SqlServer.xml
+C:\Users\PERSONAL\source\repos\ShopX\bin\System.Web.Optimization.xml
+C:\Users\PERSONAL\source\repos\ShopX\bin\Newtonsoft.Json.xml
+C:\Users\PERSONAL\source\repos\ShopX\bin\Antlr3.Runtime.pdb
+C:\Users\PERSONAL\source\repos\ShopX\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\PERSONAL\source\repos\ShopX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PERSONAL\source\repos\ShopX\obj\Debug\ShopX.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\source\repos\ShopX\obj\Debug\ShopX.csproj.CopyComplete
+C:\Users\PERSONAL\source\repos\ShopX\obj\Debug\ShopX.dll
+C:\Users\PERSONAL\source\repos\ShopX\obj\Debug\ShopX.pdb
+C:\Users\PERSONAL\source\repos\ShopX\obj\Debug\ShopX.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\ShopX.dll.config
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\ShopX.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\ShopX.pdb
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\obj\Debug\ShopX.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\obj\Debug\ShopX.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\obj\Debug\ShopX.csproj.CopyComplete
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\obj\Debug\ShopX.dll
+C:\Users\Admin\Desktop\ShopX (2)\ShopX\obj\Debug\ShopX.pdb
+C:\Users\Admin\Desktop\ShopX\bin\ShopX.dll.config
+C:\Users\Admin\Desktop\ShopX\bin\ShopX.dll
+C:\Users\Admin\Desktop\ShopX\bin\ShopX.pdb
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\ShopX\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\ShopX\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\ShopX\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\ShopX\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\ShopX\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\ShopX\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\ShopX\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Admin\Desktop\ShopX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\ShopX\obj\Debug\ShopX.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ShopX\obj\Debug\ShopX.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ShopX\obj\Debug\ShopX.csproj.CopyComplete
+C:\Users\Admin\Desktop\ShopX\obj\Debug\ShopX.dll
+C:\Users\Admin\Desktop\ShopX\obj\Debug\ShopX.pdb
